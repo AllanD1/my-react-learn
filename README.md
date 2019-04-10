@@ -2,7 +2,7 @@
 
 This repository is intended for a react learning project.
 
-##Expectations
+## Expectations
 
 *  Learn React
 *  Learn TDD
